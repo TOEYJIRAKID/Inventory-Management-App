@@ -33,4 +33,6 @@
 ```
 
 ## ตัวอย่างผลการทำงาน
+https://github.com/TOEYJIRAKID/Inventory-Management-App/assets/167008371/5185f4ee-e6a7-41ac-8d20-5f15f7ea86a4
+
 
