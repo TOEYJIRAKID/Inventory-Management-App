@@ -36,4 +36,5 @@
 ```
 
 ## ตัวอย่างผลการทำงาน
-![Inventory Management App](https://github.com/user-attachments/assets/fd503f74-8781-4b7c-a083-293fc6a85412)
+![Inventory Management App](https://github.com/user-attachments/assets/536d949f-f5da-470d-a16b-a4cdc97b509b)
+
