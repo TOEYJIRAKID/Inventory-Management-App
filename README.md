@@ -1,14 +1,54 @@
-###### https://github.com/TOEYJIRAKIT/Flutter-InventoryManagement
+###### [(ระบบนี้ Transfer มาจาก Github Account เก่า --> https://github.com/TOEYJIRAKIT/Flutter-InventoryManagement)](https://github.com/TOEYJIRAKIT/Flutter-InventoryManagement)
 
-# แอพระบบคลังสินค้า (Inventory Management App)
+## 🚀 **Project Name** :
 
-## Live Demo  
-🔗 [Inventory Management App](https://youtu.be/f3wX9AkkGQU) 
+Inventory Management - Inventory Management Mobile Application
 
-## Json Server Command
-<code>json-server --watch data.json --host <input_ip> --port <input_port></code>
+## 📌 **Project Overview** :
 
-## โครงสร้างข้อมูล
+This Inventory Management application is a cross-platform mobile app built with Flutter and Dart that helps businesses efficiently manage their inventory data. It allows users to store, update, and delete product information through an intuitive user interface. The app connects to a local JSON server for data handling and storage, making it ideal for small businesses, personal projects, or as a learning tool for mobile development.
+
+## 🎯 **Objective** :
+
+- Create a mobile app for inventory management with CRUD functionality.
+- Provide a user-friendly interface for managing product catalogs.
+- Connect to a lightweight backend (JSON Server) for local data storage.
+
+## ✨ **Key Features** :
+
+- **Add & Manage Products** – Add new items with details like name, description, image, price, and rating.
+- **Edit & Delete** – Update product details or remove them from the inventory.
+- **Mobile-Friendly UI** – Clean and responsive Flutter UI.
+
+## 🛠 **Tech Stack** :
+
+- **Frontend:** Dart, Flutter
+- **Other:** JSON Server
+
+## 📂 **GitHub Repository (Source Code)** :
+
+- [https://github.com/TOEYJIRAKID/Inventory-Management-App](https://github.com/TOEYJIRAKID/Inventory-Management-App)
+
+## ⚙️ **Installation & Setup** :
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/TOEYJIRAKID/Inventory-Management-App.git
+   ```  
+2. **Install json-server**  
+   ```bash
+   npm install json-server
+   ```  
+3. **Run the JSON Server**  
+   ```bash
+   npx json-server data.json --watch --port 3000
+   ```  
+4. **Open http://localhost:3000/ to view the json data.**
+
+## 📃 Example JSON Data :
+
+Here’s a sample of how inventory management data is structured in JSON format:
+
 ```json
 {
   "users": [
@@ -37,6 +77,6 @@
 }
 ```
 
-## ตัวอย่างผลการทำงาน
-![Inventory Management App](https://github.com/user-attachments/assets/536d949f-f5da-470d-a16b-a4cdc97b509b)
+## 📽️ **Project Preview** :
 
+![Inventory Management App](https://github.com/user-attachments/assets/536d949f-f5da-470d-a16b-a4cdc97b509b)
