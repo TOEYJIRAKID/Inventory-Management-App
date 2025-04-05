@@ -43,7 +43,7 @@ This Inventory Management application is a cross-platform mobile app built with 
    ```bash
    npx json-server data.json --watch --port 3000
    ```  
-4. **Open http://localhost:3000/ to view the json data.**
+4. **Open http://localhost:3000 to view the json data.**
 
 ## 📃 Example JSON Data :
 
